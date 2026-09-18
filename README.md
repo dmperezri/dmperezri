@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Dannia Perez 👋</h1>
 
-<!--
-**dmperezri/dmperezri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Ingeniería de Sistemas | 💻 Full Stack & Backend | 🔐 Ciberseguridad
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre mí
+
+Soy estudiante de **Ingeniería de Sistemas en la Universidad Americana**.
+
+Me apasiona la tecnología, aprender cosas nuevas y seguir desarrollando mis habilidades en programación.
+
+Mi objetivo es crecer como desarrolladora **Full Stack**, con especial interés en **Backend** y **Ciberseguridad**.
+
+También he participado en **rallys de innovación y hackatones**.
+
+🥋 Fuera de la tecnología, me gusta practicar Taekwondo.
